@@ -1,2 +1,2 @@
 # prepcourseH
-este es un repositorio de prueba en H
+Este es un proyecto de prueva para el repositorio
